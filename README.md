@@ -15,3 +15,10 @@ Data science:
 - [Numpy User Guide](https://numpy.org/doc/stable/user)
 - [Pandas User Guide](https://pandas.pydata.org/docs/user_guide/)
 - [Matplotlib User Guide](https://matplotlib.org/stable/users/)
+
+Web development:
+- [**React** Learn](https://react.dev/learn)
+- [**Tailwind** Docs](https://tailwindcss.com/docs)
+
+## Developer tools
+[Vite](https://vite.dev/guide/) (Javascript)
