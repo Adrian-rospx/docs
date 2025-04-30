@@ -14,7 +14,13 @@
 Data science:
 - [Numpy User Guide](https://numpy.org/doc/stable/user)
 - [Pandas User Guide](https://pandas.pydata.org/docs/user_guide/)
+
+Data visualisation:
 - [Matplotlib User Guide](https://matplotlib.org/stable/users/)
+- [Seaborn User Guide and Tutorial](https://seaborn.pydata.org/tutorial.html)
+
+Machine learning:
+- [scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html)
 
 Web development:
 - [**React** Learn](https://react.dev/learn)
