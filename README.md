@@ -2,13 +2,12 @@
 
 ## Programming languages
 
-- [**C++** Language Reference](https://en.cppreference.com/w/cpp)
-    - [learncpp.com](https://www.learncpp.com/)
 - [**Python** Official Documentation](https://docs.python.org/3)
 - [**Javascript** guide MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
     - [HTML MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
     - [CSS MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
+- [**C++** Language Reference](https://en.cppreference.com/w/cpp)
+    - [learncpp.com](https://www.learncpp.com/)
 ## Libraries and frameworks:
 
 Data science:
@@ -29,4 +28,6 @@ Web development:
 ## Developer tools
 
 Build systems:
-- [Vite](https://vite.dev/guide/) (Javascript)
+- [Vite guide](https://vite.dev/guide/) (Javascript)
+- [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/) (C++)
+    - [Ninja](https://ninja-build.org/manual.html)
