@@ -8,7 +8,8 @@
     - [CSS MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [**C++** Language Reference](https://en.cppreference.com/w/cpp)
     - [learncpp.com](https://www.learncpp.com/)
-## Libraries and frameworks:
+
+## Libraries and frameworks
 
 Data science:
 - [Numpy User Guide](https://numpy.org/doc/stable/user)
@@ -31,3 +32,7 @@ Build systems:
 - [Vite guide](https://vite.dev/guide/) (Javascript)
 - [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/) (C++)
     - [Ninja](https://ninja-build.org/manual.html)
+
+## Creative software
+
+- [**Davinci Resolve** 19 Beginners Guide](https://documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-19-Beginners-Guide.pdf?_v=1741161610000)
