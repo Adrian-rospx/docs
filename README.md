@@ -4,12 +4,17 @@
 
 - [**C++** Language Reference](https://en.cppreference.com/w/cpp)
     - [learncpp.com](https://www.learncpp.com/)
+- [**Java** docs Oracle](https://docs.oracle.com/en/java/)
+    - [dev.java](https://dev.java/learn/)
 - [**Javascript** guide MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
     - [HTML MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
     - [CSS MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [**Java** docs Oracle](https://docs.oracle.com/en/java/)
-    - [dev.java/learn](https://dev.java/learn/)
 - [**Python** Official Documentation](https://docs.python.org/3)
+
+## Databases
+
+- [PostgreSQL docs](https://www.postgresql.org/docs/current/)
+
 ## Libraries and frameworks
 
 Web development:
@@ -33,6 +38,9 @@ Build systems:
 - [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/) (C++)
     - [Ninja-build manual](https://ninja-build.org/manual.html)
 - [Vite guide](https://vite.dev/guide/) (Javascript)
+
+Scripting:
+- [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
 
 ## Creative software
 
