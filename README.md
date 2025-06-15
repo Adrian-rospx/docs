@@ -9,7 +9,23 @@
 - [**Javascript** guide MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
     - [HTML MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
     - [CSS MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    - [**Node.JS** Learn](https://nodejs.org/en/learn/)
 - [**Python** Official Documentation](https://docs.python.org/3)
+
+## Developer tools
+
+[Git - docs](https://git-scm.com/docs)
+
+Editors, IDEs:
+- [Visual Studio Code Docs](https://code.visualstudio.com/docs)
+
+Build systems:
+- [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/) (C++)
+    - [Ninja-build manual](https://ninja-build.org/manual.html)
+- [Vite guide](https://vite.dev/guide/) (Javascript)
+
+Scripting:
+- [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
 
 ## Databases
 
@@ -17,7 +33,7 @@
 
 ## Libraries and frameworks
 
-Web development:
+Frontend web development:
 - [**React** Learn](https://react.dev/learn)
 - [**Tailwind** Docs](https://tailwindcss.com/docs)
 
@@ -31,16 +47,6 @@ Data visualisation:
 
 Machine learning:
 - [scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html)
-
-## Developer tools
-
-Build systems:
-- [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/) (C++)
-    - [Ninja-build manual](https://ninja-build.org/manual.html)
-- [Vite guide](https://vite.dev/guide/) (Javascript)
-
-Scripting:
-- [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
 
 ## Creative software
 
