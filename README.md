@@ -18,11 +18,15 @@
 
 Editors, IDEs:
 - [Visual Studio Code Docs](https://code.visualstudio.com/docs)
+- [Intellij IDEA](www.jetbrains.com/help/idea)
 
 Build systems:
 - [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/) (C++)
     - [Ninja-build manual](https://ninja-build.org/manual.html)
+- Java
+    - [Gradle Build Tool](https://docs.gradle.org/current/userguide/userguide.html)
 - [Vite guide](https://vite.dev/guide/) (Javascript)
+
 
 Scripting:
 - [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
